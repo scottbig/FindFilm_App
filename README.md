@@ -1,4 +1,5 @@
 # FindFilmApp
 
-App練習: 使用OMDb API 跟JSON取得電影資訊
+Demo App: 運用OMDb API串接跟JSON取得電影資料
+有搜尋功能
 
